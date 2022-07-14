@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.write('Hello')
+st.write('hello et bonjour')
 
 df = pd.DataFrame([
     {'col1': 0, 'col2': 0},
